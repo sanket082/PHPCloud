@@ -1,0 +1,1 @@
+echo "<script>alert('Your content was entered')</script>";
